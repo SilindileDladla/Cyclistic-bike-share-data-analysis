@@ -19,7 +19,7 @@ This data analysis project aims to provide insights into how Cyclistic casual ri
 
 ### Data Sources
 
-Bike trip data: The primary datasets used for this analysis are the "Divvy_Trips_2019_Q1.csv" and "Divvy_Trips_2020_Q1.csv" files, containing detailed information about each bike's trip. The data has been made available by Motivate International Inc. under this [licence](https://divvybikes.com/data-license-agreement). This is public data that you can use to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders' personally identifiable information. This means that you will not be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
+Bike trip data: The primary datasets used for this analysis are the "Divvy_Trips_2019_Q1.zip" and "Divvy_Trips_2020_Q1.zip" files, containing detailed information about each bike's trip. The data has been made available by Motivate International Inc. under this [licence](https://divvybikes.com/data-license-agreement). This is public data that you can use to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders' personally identifiable information. This means that you will not be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 
 ### Tools
 
