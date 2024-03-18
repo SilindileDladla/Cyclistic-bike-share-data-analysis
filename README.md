@@ -109,31 +109,23 @@ write.csv(counts, file = 'avg_ride_length.csv')
 ### Results
 
 The analysis results are summarized as follows:
-1. The number of rides has increased from 2019 to 2020 for both member and casual riders.
-2. There are more members than casual riders as customers.
-3. Casual riders take longer trips than members.
-4. Members take more rides than casual riders.
-5. Descriptive summary of length of ride (seconds) for 2019 and 2020 for Cyclistic bike rides: mean = 1189.46, median = 539, maximum = 10632022, minimum = 1 
-2. Length of ride(seconds) by rider type: 
- Members: Mean = 795.25              Casual: Mean = 5372.78
-          Median = 508                       Median = 1393
-          Maximum = 6096428                  Maximum = 10632022
-          Minimum = 1                        Minimum = 2
-3.Average length of ride (seconds) per day of week by rider type:
-Member: Monday = 822.31                   Casual: Monday = 4752.05
-        Tuesday = 769.44                          Tuesday = 4561.80
-        Wednesday = 711.98                        Wednesday = 4480.37
-        Thursday = 707.21                         Thursday = 8451.67
-        Friday = 796.73                           Friday = 6090.74
-        Saturday = 974.07                         Saturday = 4950.77
-        Sunday = 972.94                           Sunday = 5061.30
+1. Cyclistic has more members than casual riders as customers.
+2. Cyclistic's bike trips increased between 2019 and 2020 for both casual and member riders.
+3. Cyclistic's casual riders take longer trips than members.
+4. Cyclistc's members take more trips than casual riders.
+5. Cyclistic's casual riders use electric the most and docked bikes type the least, on the other hand, members use classic the most and electric the least and never docked bike type.
 
 ### Recommendations
 
 Based on the analysis, I recommend the following marketing strategies:
-1. Invest in marketing and promotion of subscription memberships between February and March, and between Thursday and Sunday.
-2. Offer membership subscription at a cheaper price at end stations if a rider's trip  took a minimum of 60 minutes.
-3. Introduce weekend and weekday membership subscriptions because casual riders take more rides on weekends than on weekdays.
+1. Cyclistic's number of casual riders is significantly small, therefore, it is best to simply come up with a strategy to get new customers and sign them up as members.
+  - One strategy is to terminate single/full day pass tickets and only sell membership tickets.
+  - Introduce Cyclistic bikes in other areas.
+  - Offer free single day trips to members on weekends or monthly.
+2. Since the number of rides increased between 2019 and 2020, Cyclistic should increase number of bikes in highly active areas.
+3. One strategy to convert casual riders into members is to offer membership tickets at a cheaper price at end stations if their last trip took a minimum of 60 minutes as we know they take longer trips.
+4. Run promotion of membership tickets on weekends as casual riders ride on weekends.
+5. Cyclistic should increase the number of electric and classic bikes type as they have more preference than docked bikes.
 
 ### Limitations
 
