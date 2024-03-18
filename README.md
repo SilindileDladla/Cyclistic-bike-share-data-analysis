@@ -129,7 +129,7 @@ Based on the analysis, I recommend the following marketing strategies:
 
 ### Limitations
 
-I had to remove records without start/end station name and those with negative length of ride. Furthermore, removed latitude, longitude, gender, and birthyear columns as 2020 dataset did not have these attributes. I could not analyze rideable type because it was not in a correct format.
+I had to remove records without start/end station name and those with negative length of ride. Furthermore, removed latitude, longitude, gender, and birthyear columns as 2020 dataset did not have these attributes. I could not analyze rideable type because it was not in a correct format but referenced Samuel Ngai's visualization for this analysis as most vizualizations were matching his analysis.
 
 ### References
 
